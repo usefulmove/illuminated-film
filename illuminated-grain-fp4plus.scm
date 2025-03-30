@@ -30,9 +30,9 @@
     (gimp-displays-flush)))
 
 (script-fu-register
- "script-fu-add-grain-fp4plus"                    ; Procedure name
- "Add Grain (FP4+)"                            ; Menu label
- "Adds a FP4+ 125 film grain emulation layer" ; Description
+ "script-fu-add-grain-fp4plus"                  ; Procedure name
+ "Add Grain (FP4+)"                             ; Menu label
+ "Adds a FP4+ 125 film grain emulation layer"   ; Description
  "Duane Edmonds"                                ; Author
  "Duane Edmonds"                                ; Copyright
  "2025"                                         ; Date
@@ -42,4 +42,4 @@
  )
 
 (script-fu-menu-register "script-fu-add-grain-fp4plus"
-                         "<Image>/Filters/Illuminated Film")
+                         "<Image>/Filters/Illuminated Film/Film Grain")

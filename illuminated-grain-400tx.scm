@@ -42,4 +42,4 @@
  )
 
 (script-fu-menu-register "script-fu-add-grain-400tx"
-                         "<Image>/Filters/Illuminated Film")
+                         "<Image>/Filters/Illuminated Film/Film Grain")

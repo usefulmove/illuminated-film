@@ -38,4 +38,4 @@
  )
 
 (script-fu-menu-register "script-fu-split-tone"
-                         "<Image>/Filters/Illuminated Film")
+                         "<Image>/Filters/Illuminated Film/Toning")

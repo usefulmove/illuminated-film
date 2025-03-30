@@ -38,4 +38,4 @@
  )
 
 (script-fu-menu-register "script-fu-portra"
-                         "<Image>/Filters/Illuminated Film")
+                         "<Image>/Filters/Illuminated Film/Film Emulation")
