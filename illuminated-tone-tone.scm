@@ -9,7 +9,7 @@
     (gimp-drawable-color-balance current-layer
                                  TRANSFER-SHADOWS
                                  FALSE
-                                 0.0 0.0 0.0)
+                                 0.0 0.0 0.2)
     (gimp-drawable-color-balance current-layer
                                  TRANSFER-MIDTONES
                                  FALSE
